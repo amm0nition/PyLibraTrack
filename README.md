@@ -25,7 +25,7 @@ Follow these steps to get PyLibraTrack running on your machine:
 
 4. Configure your database:
     - Make sure MySQL or MariaDB is installed and running.
-    - Create a database for the library system (for example, `librarydb`).
+    - Create a database for the library system (for example, `libratrack_db`).
     - Update the database credentials in your connection script (`main.py` or `config.py`).
 
 5. Run the program:
